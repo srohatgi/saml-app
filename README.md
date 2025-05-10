@@ -1,0 +1,1 @@
+Sample SAML app to demonstrate Auth0.
