@@ -4,14 +4,14 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "fastapi-auth0-app"
+name = "saml-app"
 version = "0.1.0"
 description = "FastAPI Auth0 OAuth Integration"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Sumeet Rohatgi", email = "sumeet.rohatgi@bd.com"}
 ]
 dependencies = [
     "fastapi[standard]>=0.103.1",

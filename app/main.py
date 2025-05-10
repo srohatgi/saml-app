@@ -10,7 +10,7 @@ import httpx
 # Load configuration
 settings = Settings() 
 
-app = FastAPI(title="FastAPI Auth0 OAuth App")
+app = FastAPI(title="SAML App")
 
 # Configure CORS
 app.add_middleware(
